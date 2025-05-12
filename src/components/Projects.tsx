@@ -11,6 +11,7 @@ export default function Projects() {
         // url: "/assets/videos/Backendf.mp4",
         url: "https://player.cloudinary.com/embed/?cloud_name=dkgzwfw9g&public_id=Backendf_vnurpe&profile=cld[controls]=true&player[autoplay]=false",
         thumbnail: "/assets/images/bannerf1.png",
+        // thumbnail: "https://your-app.vercel.app/assets/images/bannerf1.png",
       },
       tags: [
         "AWS VPC","S3", "RDS", "ELB","ECR","EKS","Autoscaling","Docker","Kubernetes", 
