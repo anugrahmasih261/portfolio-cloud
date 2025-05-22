@@ -10,7 +10,9 @@ export default function Projects() {
       video: {
         // url: "/assets/videos/Backendf.mp4",
         url: "https://player.cloudinary.com/embed/?cloud_name=dkgzwfw9g&public_id=Backendf_vnurpe&profile=cld[controls]=true&player[autoplay]=false",
-        thumbnail: "/assets/images/bannerf1.png",
+        // thumbnail: "/assets/images/bannerf1.png",
+        thumbnail: "https://res.cloudinary.com/dkgzwfw9g/image/upload/v1747923679/bannerf1_rdyqp0.png",
+
       },
       tags: [
         "AWS VPC","S3", "RDS", "ELB","ECR","EKS","Autoscaling","Docker","Kubernetes", 
@@ -27,7 +29,9 @@ export default function Projects() {
       cloud deployment, and automation to deliver a production-ready application.`,
       video: {
         url: "https://player.cloudinary.com/embed/?cloud_name=dkgzwfw9g&public_id=amazon_o6krdm&player[controls]=true&player[autoplay]=false",
-        thumbnail: "/assets/images/az.png",
+        // thumbnail: "/assets/images/az.png",
+        thumbnail: "https://res.cloudinary.com/dkgzwfw9g/image/upload/v1747923678/az_puw8sj.png",
+
       },
       tags: ["React", "Redux", "Django", "PostgreSQL","Django REST Framework","Cloud-Replit","Heroku","CodePipeline", "Git-GitHub"],
     },
@@ -37,7 +41,9 @@ export default function Projects() {
       video: {
         // url: "/assets/videos/portfolio.mov",
         url: "https://player.cloudinary.com/embed/?cloud_name=dkgzwfw9g&public_id=portfolio_dnn05h&player[controls]=true&player[autoplay]=false",
-        thumbnail: "/assets/images/portfolio.png",
+        // thumbnail: "/assets/images/portfolio.png",
+        thumbnail: "https://res.cloudinary.com/dkgzwfw9g/image/upload/v1747923678/portfolio_hhfxs3.png",
+
       },
       tags: ["HTML", "CSS", "Bootstrap", "JavaScript", "GitHub Actions", "GitHub Page"],
     },
@@ -47,7 +53,7 @@ export default function Projects() {
       video: {
         // url: "/assets/videos/synamatic.mov",
         url: "https://player.cloudinary.com/embed/?cloud_name=dkgzwfw9g&public_id=synamatic_u1afos&profile=cld[controls]=true&player[autoplay]=false",
-        thumbnail: "/assets/images/netflix.png",
+        thumbnail: "https://res.cloudinary.com/dkgzwfw9g/image/upload/v1747923678/netflix_te8vor.png",
       },
       tags: ["Replit", "Heroku", "Virtual-environment", "CodePipeline", "React","Redux", "Django"],
     },
@@ -57,7 +63,7 @@ export default function Projects() {
       video: {
         // url: "/assets/videos/mail.mov",
         url: "https://player.cloudinary.com/embed/?cloud_name=dkgzwfw9g&public_id=mail_a4gc0v&player[controls]=true&player[autoplay]=false",
-        thumbnail: "/assets/images/mail.png",
+        thumbnail: "https://res.cloudinary.com/dkgzwfw9g/image/upload/v1747923677/mail_o77u26.png",
       },
       tags: ["AWS EC2", "RDS", "S3","AWS infrastructure", "Gunicorn","Nginx", "Django", "HTML-CSS-JS"],
     },
@@ -67,7 +73,7 @@ export default function Projects() {
       video: {
         // url: "/assets/videos/twitter.mov",
         url: "https://player.cloudinary.com/embed/?cloud_name=dkgzwfw9g&public_id=twitter_owtatn&player[controls]=true&player[autoplay]=false",
-        thumbnail: "/assets/images/twitteraws.png",
+        thumbnail: "https://res.cloudinary.com/dkgzwfw9g/image/upload/v1747923677/twitteraws_wskk7l.png",
       },
       tags: ["AWS VPC", "Private Subnet", "EC2", "PostgreSQL", "S3","Gunicorn","Nginx", "Django", "HTML5-CSS-JS"],
     },
