@@ -4,7 +4,7 @@
 
 
 
-[LIVE](https://roaring-starlight-ea3123.netlify.app/)
+[LIVE](https://portfolio-cloud-sable.vercel.app/)
 
 
 
