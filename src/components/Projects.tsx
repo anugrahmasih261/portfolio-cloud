@@ -10,7 +10,7 @@ export default function Projects() {
       video: {
         // url: "/assets/videos/Backendf.mp4",
         url: "https://player.cloudinary.com/embed/?cloud_name=dkgzwfw9g&public_id=Backendf_vnurpe&profile=cld[controls]=true&player[autoplay]=false",
-        // thumbnail: "/assets/images/bannerf1.png",
+
         thumbnail: "https://res.cloudinary.com/dkgzwfw9g/image/upload/v1747923679/bannerf1_rdyqp0.png",
 
       },
@@ -29,7 +29,7 @@ export default function Projects() {
       cloud deployment, and automation to deliver a production-ready application.`,
       video: {
         url: "https://player.cloudinary.com/embed/?cloud_name=dkgzwfw9g&public_id=amazon_o6krdm&player[controls]=true&player[autoplay]=false",
-        // thumbnail: "/assets/images/az.png",
+
         thumbnail: "https://res.cloudinary.com/dkgzwfw9g/image/upload/v1747923678/az_puw8sj.png",
 
       },
